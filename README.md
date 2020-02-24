@@ -16,7 +16,7 @@ Any question can hit me with e-mail.
 [![Alt text](https://github.com/ugurkanates/DeepRacerRL/blob/master/image016.jpg)](https://www.youtube.com/watch?v=efZzpvkNoQ8&feature=youtu.be)
 
 A small clip from actual track at event
-
+https://www.youtube.com/watch?v=efZzpvkNoQ8&feature=youtu.be
 Both model files have their enviroment details ,speed selection , angle selection etc listed in their respective files.
 
 
