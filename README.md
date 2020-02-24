@@ -10,4 +10,11 @@ My 11 second virtual track record is not perfectly stable in actual environments
 I included both reward functions + model files for you to test out. 
 Any question can hit me with e-mail.
 
+https://www.youtube.com/watch?v=efZzpvkNoQ8&feature=youtu.be
+
+A small clip from actual track at event
+
+Both model files have their enviroment details ,speed selection , angle selection etc listed in their respective files.
+
+
 ugurkanates97@gmail.com
