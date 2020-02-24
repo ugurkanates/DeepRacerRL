@@ -9,8 +9,11 @@ My 11 second virtual track record is not perfectly stable in actual environments
 
 I included both reward functions + model files for you to test out. 
 Any question can hit me with e-mail.
+![picture](https://github.com/ugurkanates/DeepRacerRL/blob/master/thumbnail_image014.jpg)
+![picture](https://github.com/ugurkanates/DeepRacerRL/blob/master/image016.jpg)
+![picture](https://github.com/ugurkanates/DeepRacerRL/blob/master/thumbnail_image020.jpg)
 
-https://www.youtube.com/watch?v=efZzpvkNoQ8&feature=youtu.be
+[![Alt text](https://github.com/ugurkanates/DeepRacerRL/blob/master/image016.jpg)](https://www.youtube.com/watch?v=efZzpvkNoQ8&feature=youtu.be)
 
 A small clip from actual track at event
 
